@@ -1,6 +1,6 @@
-# Aplication todo_list
+# Application todo_list
 
-### DESCRICION: 
+### DESCRICIÓN: 
 
 en este trabajo, realizamos la construcción de una aplicación de un Todo_List en donde tendra como funciones el crear, ver, eliminar y completar elementos.
 
